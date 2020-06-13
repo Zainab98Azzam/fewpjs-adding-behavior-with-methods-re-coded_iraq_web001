@@ -1,7 +1,7 @@
 // Your code 
 class Cat {
   constructor(name,sex){
-    return(`${name} says meow!`)
+    
   }
 }
 class Dog{
