@@ -2,7 +2,7 @@
 class Cat {
   constructor(name,sex){
     this.name =name
-    this.age=age
+    this.sex=sex
   }
   speak(){
     return(`${name} says meow!`)
@@ -11,7 +11,7 @@ class Cat {
 class Dog{
   constructor(name,sex){
     this.name =name
-    this.age=age
+    this.sex=sex
   
   }
   speak(){
@@ -21,7 +21,7 @@ class Dog{
 class Bird{
   constructor(name,sex){
     this.name =name
-    this.age=age
+    this.sex=sex
  
   }
   speak(){
