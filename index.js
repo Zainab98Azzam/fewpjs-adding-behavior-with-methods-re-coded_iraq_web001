@@ -12,7 +12,11 @@ class Dog{
 class Bird{
   constructor(name,sex){
     if (sex = "male"){
-      console.log()
+      console.log(`It's me! ${name}, the parrot!`)
+    }
+    else{
+            console.log(`${name} says squawk`)
+
     }
   }
 }
