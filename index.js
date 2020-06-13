@@ -9,4 +9,10 @@ class Dog{
     console.log(`${name} says woof!`)
   }
 }
-console
+class Bird{
+  constructor(name,sex){
+    if (sex = "male"){
+      console.log()
+    }
+  }
+}
